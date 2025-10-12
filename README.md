@@ -38,11 +38,18 @@ It provides students with tools for note-sharing, scheduling, and interactive le
 Study-Sphere/
 │
 ├── client/ # Frontend (React + Vite + Tailwind)
+
 ├── server/ # Backend (Node.js + Express + Drizzle)
+
 ├── shared/ # Shared TypeScript utilities
+
 │
 ├── package.json
+
 ├── tailwind.config.ts
+
 ├── vite.config.ts
+
 ├── drizzle.config.ts
+
 ├── postcss.config.js
